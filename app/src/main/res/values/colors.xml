@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="disable">#fff3f3f3</color>
+    <color name="enable">#fff3f3f3</color>
+    <color name="red">#ff0000</color>
+    <color name="green">#00ff00</color>
+    <color name="yellow">#ffd0ff4b</color>
+    <color name="blue">#ff476eff</color>
+    <color name="windowBackground">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="btnColor">#ff5b8bff</color>
+    <color name="txtColor">#ff000000</color>
+    <color name="White">#ffffffff</color>
+    <color name="tableColor">#ff92abda</color>
+    <color name="tableColor2">#e9acd6</color>
+    <color name="tableStrokeColor">#ffe28ea6</color>
+    <color name="txtWHColor">#ff000000</color>
+</resources>

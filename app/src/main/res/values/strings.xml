@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KurskStatOKPO</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab1">ОКУД</string>
+    <string name="tab2">Наименование полное</string>
+    <string name="tab3">Наименование</string>
+    <string name="tab4">Период</string>
+    <string name="tab5">Сроки сдачи</string>
+    <string name="tab6">Кабинет</string>
+    <string name="tab7">ФИО ответственного</string>
+    <string name="tab8">Телефон</string>
+    <string name="tab9">Замечания</string>
+</resources>
